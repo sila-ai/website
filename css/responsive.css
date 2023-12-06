@@ -1,0 +1,279 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .menu-btn a {
+        font-size: 13px;
+    }
+
+    .price-range {
+        background-image: url(../img/price-robot.png);
+        background-repeat: no-repeat;
+        background-size: 80px;
+        background-position: 4% 20%;
+    }
+
+    .hero-content h3 {
+        font-size: 40px;
+    }
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.header-area {
+    background-color: #233462;
+    padding: 3px 0;
+}
+
+.menu-item {
+    display: none;
+}
+
+.menu-btn {
+    display: none;
+}
+
+.menu-bar {
+    display: block;
+}
+
+/* ===why sila=== */
+
+.why-area {
+    padding: 50px 0;
+}
+
+.why-sila-left-item p br {
+    display: none !important;
+}
+
+/*==== abakutsus area ==== */
+
+.analysis-title br {
+    display: none;
+}
+
+/* footer */
+
+.footer-right-item {
+    margin-left: 0px;
+}
+
+.services-area {
+    padding: 0 0 26px 0;
+  }
+
+  .price-range {
+    background-image: none !important;
+}
+
+.hero-content h4 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.hero-content h3 {
+    font-size: 32px;
+}
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+
+.header-area {
+    background-color: #233462;
+    padding: 3px 0;
+}
+
+.menu-item {
+    display: none;
+}
+
+.menu-btn {
+    display: none;
+}
+
+.menu-bar {
+    display: block;
+}
+
+/* ===why sila=== */
+
+.why-area {
+    padding: 50px 0;
+}
+
+.why-sila-left-item p br {
+    display: none !important;
+}
+
+/*==== abakutsus area ==== */
+
+.analysis-title {
+    margin: 38px 0 0 0;
+}
+
+.analysis-title br {
+    display: none;
+}
+
+.tk-con-left-item br {
+    display: none;
+}
+
+/* footer */
+
+.footer-right-item {
+    margin-left: 0px;
+}
+.services-area {
+    padding: 0 0 26px 0;
+  }
+
+  .price-range {
+    background-image: none !important;
+}
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+
+@media screen and (max-width: 576px) {
+
+.header-area {
+    background-color: #233462;
+    padding: 3px 0;
+}
+
+.menu-item {
+    display: none;
+}
+
+
+.menu-btn {
+    display: none;
+}
+
+.menu-bar {
+    display: block;
+}
+
+/* == why area==*/
+
+.why-area {
+    padding: 50px 0;
+}
+
+.why-sila-left-item p br {
+    display: none !important;
+}
+
+/*==== abakutsus area ==== */
+
+.analysis-title {
+    margin: 38px 0 0 0;
+}
+
+.analysis-title br {
+    display: none;
+}
+
+.ana-list ul li {
+    font-size: 11px;
+    font-weight: 500;
+    color: #ec6e26;
+}
+
+/* footer */
+
+.footer-right-item {
+    margin-left: 0px;
+}
+
+.price-title p {
+    font-size: 17px;
+}
+
+.price-range {
+    background-image: none !important;
+}
+
+.ctn-info {
+    margin: 20px 0 0 0;
+}
+
+.footer-form p {
+    margin: 43px 0 15px 0;
+}
+
+.tk-con-left-item br {
+    display: none;
+}
+
+.take-control-area {
+    padding: 37px 0;
+}
+
+.tk-con-left-item h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+.tk-con-left-item h3 {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.services-area {
+    padding: 0 0 26px 0;
+}
+
+.hero-area {
+    background-size: 75%;
+}
+
+.hero-content h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.hero-content h2 {
+    margin-bottom: 5px;
+    margin-top: 15px;
+    font-size: 45px;
+}
+
+.hero-content h3 {
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+}
